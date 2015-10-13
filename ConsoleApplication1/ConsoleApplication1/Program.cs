@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             System.Console.Write("Hello World!!!!");
             System.Console.ReadKey();
+            666
         }
     }
 }
